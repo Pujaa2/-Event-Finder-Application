@@ -1,0 +1,40 @@
+
+
+
+# Event Finder Application Project Plan
+
+Project Name: Event Finder Application
+
+Project Description:
+The Event Finder Application is designed to help users discover events happening around them or in specific locations. Users can search for events, view event details, and save events of interest. The application will integrate with external event APIs to provide up-to-date information on various events such as concerts, sports, conferences, and more.
+
+Features to be Integrated:
+1. Search Events
+2. Event Details
+3. Save Events
+4. User Authentication
+5. Responsive Design
+
+## Technical Insight
+Tools and Technologies:
+- Front-end: Razor Pages
+- Back-end: ASP.NET Core
+- Database: SQLite
+- APIs: Eventbrite API
+- Hosting: Github
+- Programming Language: C#
+
+Detailed Plan for Incorporation:
+
+1. Front-end Development: Creating  Razor Pages, and styling them with CSS.
+2. Back-end Development: Set up ASP.NET Core project, implement controllers, and integrate with Eventbrite API.
+3. Database Integration: Set up SQLite, create models, and implement CRUD operations.
+4. **Deployment**: Deploy the application to GitHub.
+
+
+
+
+
+
+
+
